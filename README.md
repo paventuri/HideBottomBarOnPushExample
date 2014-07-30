@@ -1,4 +1,4 @@
 HideBottomBarOnPushExample
 ==========================
 
-This is a example project to show an issue with hideBottomBarOnPush = YES
+This is an example project to show an issue with hideBottomBarOnPush = YES
